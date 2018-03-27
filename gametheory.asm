@@ -13,7 +13,6 @@ player_decision	DWORD	?
 computer_decision DWORD	?
 player_cents DWORD 0
 computer_cents DWORD 0
-
 default_color DWORD ?
 cents_p1	BYTE "Your Score:     ",0
 cents_p2	BYTE "Player 2 Score: ",0
